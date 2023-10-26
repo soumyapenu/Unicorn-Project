@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-20T15:45:17 IST" name="Default suite" finished-at="2022-01-20T15:46:27 IST" duration-ms="69442">
+    <groups>
+    </groups>
+    <test started-at="2022-01-20T15:45:17 IST" name="Default test" finished-at="2022-01-20T15:46:27 IST" duration-ms="69442">
+      <class name="com.testcases.UniCornTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.testcases.UniCornTest@3d5c822d]" started-at="2022-01-20T15:45:17 IST" name="SetUp" finished-at="2022-01-20T15:46:01 IST" duration-ms="44120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="dealDetailsSec()[pri:4, instance:com.testcases.UniCornTest@3d5c822d]" started-at="2022-01-20T15:46:01 IST" name="dealDetailsSec" finished-at="2022-01-20T15:46:27 IST" duration-ms="25283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dealDetailsSec -->
+      </class> <!-- com.testcases.UniCornTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
